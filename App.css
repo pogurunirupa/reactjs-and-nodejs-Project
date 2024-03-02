@@ -1,0 +1,17 @@
+.demo{
+  display: flex;
+  margin-top: 10px;
+  justify-content: space-evenly;
+ } 
+ .demo-box{
+  width: 200px;
+  background-color: yellow;
+  border: 2px solid;
+ }
+ .parent{
+  margin: auto;
+  width: 400px;
+  border: 1px solid;
+  padding: 10px;
+
+ }
